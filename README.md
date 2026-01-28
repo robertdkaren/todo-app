@@ -51,7 +51,7 @@ npm run dev -- --port 5173
 
 ## Usage
 
-1. Open http://localhost:5173 in your browser
+1. Open http://localhost:5173 in your browser (or substitute server dns name for 'localhost')
 2. Login with: `testuser` / `Xk9#mP2$vL5nQ8wR`
 3. Create todos using the form
 4. Drag form fields to reorder them (order is saved)
