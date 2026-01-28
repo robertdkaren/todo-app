@@ -59,17 +59,17 @@ npm run dev -- --port 5173
 ## Project Structure
 
 ```
-├── backend/
-│   ├── backend/          # Django project settings
-│   ├── todos/            # Main app (models, views, serializers)
-│   └── manage.py
-├── frontend/
-│   ├── src/
-│   │   ├── components/   # React components
-│   │   ├── api.js        # API client
-│   │   └── App.jsx       # Main app component
-│   └── package.json
-└── README.md
+backend
+   backend (Django settings)
+   todos   (main app - models, views, serializers)
+   manage.py
+frontend
+   src
+       components (React components)
+       api.js
+       App.jsx (main component)
+   package.json
+README.md (this file)
 ```
 
 ## API Endpoints
