@@ -37,7 +37,7 @@ python manage.py migrate
 python manage.py runserver 0.0.0.0:8002
 ```
 
-### Frontend
+### Frontend (Open a second window and cd to directory where you began - the parent of 'backend' mentioned above)
 
 ```bash
 cd frontend
